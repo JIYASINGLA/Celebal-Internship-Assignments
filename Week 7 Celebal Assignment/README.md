@@ -45,7 +45,7 @@ delta-lake-assignment/
 │   └── superstore_incremental.csv
 │
 ├── notebooks/
-│   └── delta_lake_merge_implementation.ipynb
+│   └── delta_merge_assignment.ipynb
 │
 ├── screenshots/
 │   ├── data_loading/
