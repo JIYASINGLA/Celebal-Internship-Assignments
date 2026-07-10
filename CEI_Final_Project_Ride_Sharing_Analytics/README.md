@@ -201,6 +201,22 @@ The pipeline successfully generates:
 - Ranked Drivers based on Total Revenue
 
 
+## Output Summary
+
+| Layer / Output | Records |
+|----------------|--------:|
+| Bronze Drivers | 150 |
+| Bronze Trips | 150 |
+| Bronze Trip Logs | 150 |
+| Silver Records | 63 |
+| Driver Performance Records | 50 |
+| Cancellation Rate Records | 50 |
+| High Demand Locations | 5 |
+| Revenue Insights | 50 |
+| Delay Analysis Records | 5 |
+| Ranked Drivers | 50 |
+
+
 ## Acknowledgement
 
 This project was completed as the **Final Project** for the **Celebal Technologies Excellence Internship 2026**. It demonstrates the implementation of an end-to-end data engineering pipeline using **Apache Spark (PySpark)**, **Databricks**, and the **Medallion Architecture** to transform raw ride-sharing data into meaningful business insights.
