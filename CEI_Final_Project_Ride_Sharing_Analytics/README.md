@@ -37,7 +37,7 @@ The project uses the following datasets:
 | `trips.csv` | Trip details including pickup, drop, distance, fare, and status |
 | `trip_logs.csv` | Trip logs containing timestamps, delays, and cancellation information |
 
----
+
 
 ## Medallion Architecture
 
