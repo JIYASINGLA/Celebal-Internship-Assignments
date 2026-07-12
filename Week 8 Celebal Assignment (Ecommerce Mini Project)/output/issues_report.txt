@@ -1,0 +1,11 @@
+Duplicate product names after cleaning: 476
+Invalid order dates: 0
+Negative quantity records: 22
+Zero quantity records: 14
+Customers: Duplicate rows removed = 0
+Products: Duplicate rows removed = 0
+Orders: Duplicate rows removed = 0
+Order Items: Duplicate rows removed = 0
+Invalid emails found: 8
+Discount greater than 100: 11
+Invalid order references: 9

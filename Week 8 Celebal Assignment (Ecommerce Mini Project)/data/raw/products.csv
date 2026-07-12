@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,Table,Home,Table,3091.92
+2,Cream,Beauty,Cream,1271.93
+3,Jeans,Clothing,Jeans,4740.94
+4,T-Shirt,Clothing,T-Shirt,3912.81
+5,Tennis Racket,Sports,Tennis Racket,4102.77
+6,Bat,Sports,Bat,355.68
+7,Jacket,Clothing,Jacket,602.69
+8,Football,Sports,Football,3839.27
+9,Lamp,Home,Lamp,822.01
+10,Shirt,Clothing,Shirt,1187.99
+11,Jacket,Clothing,Jacket,2132.99
+12,Jacket,Clothing,Jacket,4973.17
+13,   Table   ,Home,Table,4211.96
+14,Lipstick,Beauty,Lipstick,774.24
+15,Lamp,Home,Lamp,780.08
+16,Cream,Beauty,Cream,125.73
+17,Laptop,Electronics,Laptop,4191.32
+18,Tennis Racket,Sports,Tennis Racket,1511.7
+19,CHAIR,Home,Chair,3230.86
+20,Tennis Racket,Sports,Tennis Racket,4199.77
+21,Shirt,Clothing,Shirt,2917.73
+22,Perfume,Beauty,Perfume,107.67
+23,Table,Home,Table,1017.84
+24,Face Wash,Beauty,Face Wash,1866.96
+25,Football,Sports,Football,2403.66
+26,Cream,Beauty,Cream,1342.89
+27,Headphones,Electronics,Headphones,1789.53
+28,Face Wash,Beauty,Face Wash,3702.42
+29,tABLE,Home,Table,1758.88
+30,Perfume,Beauty,Perfume,3454.94
+31,Cream,Beauty,Cream,4076.34
+32,   Monitor   ,Electronics,Monitor,314.65
+33,Novel,Books,Novel,1619.37
+34,T-Shirt,Clothing,T-Shirt,3791.13
+35,Magazine,Books,Magazine,3926.12
+36,Lipstick,Beauty,Lipstick,4016.78
+37,T-Shirt,Clothing,T-Shirt,4483.72
+38,Jacket,Clothing,Jacket,2531.4
+39,Jacket,Clothing,Jacket,2644.45
+40,Monitor,Electronics,Monitor,3052.02
+41,Magazine,Books,Magazine,492.34
+42,Lipstick,Beauty,Lipstick,3052.85
+43,Jeans,Clothing,Jeans,1822.58
+44,Headphones,Electronics,Headphones,2231.21
+45,Face Wash,Beauty,Face Wash,3223.81
+46,Table,Home,Table,799.62
+47,   Tennis Racket   ,Sports,Tennis Racket,1256.38
+48,Lipstick,Beauty,Lipstick,4752.39
+49,Mobile,Electronics,Mobile,4749.24
+50,Lamp,Home,Lamp,2912.22
+51,Cricket Ball,Sports,Cricket Ball,3282.85
+52,   Novel   ,Books,Novel,2545.32
+53,Shirt,Clothing,Shirt,1375.42
+54,Jeans,Clothing,Jeans,1499.33
+55,Jeans,Clothing,Jeans,4278.85
+56,Jeans,Clothing,Jeans,2281.04
+57,Headphones,Electronics,Headphones,3576.75
+58,Cricket Ball,Sports,Cricket Ball,4271.67
+59,Perfume,Beauty,Perfume,2592.9
+60,Mobile,Electronics,Mobile,1260.01
+61,Shirt,Clothing,Shirt,2904.16
+62,Jeans,Clothing,Jeans,522.46
+63,Lamp,Home,Lamp,3622.46
+64,Tennis Racket,Sports,Tennis Racket,4134.36
+65,Mobile,Electronics,Mobile,3247.46
+66,T-Shirt,Clothing,T-Shirt,1788.12
+67,Bat,Sports,Bat,732.26
+68,Football,Sports,Football,2638.7
+69,Table,Home,Table,4680.22
+70,Magazine,Books,Magazine,2642.6
+71,Chair,Home,Chair,3211.78
+72,Cricket Ball,Sports,Cricket Ball,1583.84
+73,Football,Sports,Football,926.32
+74,Bat,Sports,Bat,3159.95
+75,Cricket Ball,Sports,Cricket Ball,2861.73
+76,lAPTOP,Electronics,Laptop,3878.01
+77,Table,Home,Table,2141.28
+78,Face Wash,Beauty,Face Wash,3173.1
+79,Sofa,Home,Sofa,4042.97
+80,Cream,Beauty,Cream,457.57
+81,Mobile,Electronics,Mobile,2472.83
+82,Magazine,Books,Magazine,1631.65
+83,Lipstick,Beauty,Lipstick,4317.81
+84,Jeans,Clothing,Jeans,2623.4
+85,Headphones,Electronics,Headphones,700.36
+86,Jeans,Clothing,Jeans,347.97
+87,T-Shirt,Clothing,T-Shirt,4340.01
+88,Magazine,Books,Magazine,3633.53
+89,Dictionary,Books,Dictionary,2622.15
+90,Jacket,Clothing,Jacket,541.24
+91,T-Shirt,Clothing,T-Shirt,1154.21
+92,Chair,Home,Chair,2524.98
+93,Cream,Beauty,Cream,140.07
+94,Monitor,Electronics,Monitor,1395.92
+95,Lamp,Home,Lamp,2062.85
+96,Bat,Sports,Bat,1514.15
+97,T-Shirt,Clothing,T-Shirt,1470.63
+98,Football,Sports,Football,573.74
+99,Sofa,Home,Sofa,1891.47
+100,Dictionary,Books,Dictionary,2066.8
+101,lAPTOP,Electronics,Laptop,1731.9
+102,T-Shirt,Clothing,T-Shirt,4476.35
+103,Magazine,Books,Magazine,1660.8
+104,Jacket,Clothing,Jacket,2585.84
+105,Tennis Racket,Sports,Tennis Racket,1568.97
+106,Headphones,Electronics,Headphones,637.06
+107,Jacket,Clothing,Jacket,3654.09
+108,Face Wash,Beauty,Face Wash,1401.1
+109,Perfume,Beauty,Perfume,2959.26
+110,Notebook,Books,Notebook,3435.56
+111,Laptop,Electronics,Laptop,2261.09
+112,Jeans,Clothing,Jeans,1099.07
+113,Tennis Racket,Sports,Tennis Racket,3705.6
+114,Mobile,Electronics,Mobile,2848.35
+115,Cream,Beauty,Cream,1637.39
+116,Notebook,Books,Notebook,1777.4
+117,Sofa,Home,Sofa,1042.09
+118,Magazine,Books,Magazine,1201.85
+119,Sofa,Home,Sofa,3482.18
+120,Jacket,Clothing,Jacket,2846.39
+121,Lipstick,Beauty,Lipstick,2910.04
+122,Tennis Racket,Sports,Tennis Racket,2033.21
+123,Table,Home,Table,1509.39
+124,Face Wash,Beauty,Face Wash,2267.64
+125,Lamp,Home,Lamp,4156.96
+126,Sofa,Home,Sofa,3116.82
+127,Bat,Sports,Bat,3382.19
+128,Bat,Sports,Bat,357.21
+129,Jacket,Clothing,Jacket,592.67
+130,Novel,Books,Novel,4891.76
+131,Notebook,Books,Notebook,4415.17
+132,T-Shirt,Clothing,T-Shirt,3803.96
+133,Sofa,Home,Sofa,389.9
+134,Mobile,Electronics,Mobile,3643.28
+135,Mobile,Electronics,Mobile,4204.26
+136,Monitor,Electronics,Monitor,1012.93
+137,Lipstick,Beauty,Lipstick,145.41
+138,Football,Sports,Football,1741.71
+139,T-Shirt,Clothing,T-Shirt,757.58
+140,Tennis Racket,Sports,Tennis Racket,4063.19
+141,Table,Home,Table,3276.6
+142,PERFUME,Beauty,Perfume,3974.76
+143,Bat,Sports,Bat,4295.12
+144,T-Shirt,Clothing,T-Shirt,525.02
+145,Face Wash,Beauty,Face Wash,789.0
+146,TABLE,Home,Table,1254.05
+147,Sofa,Home,Sofa,3642.12
+148,Headphones,Electronics,Headphones,3494.57
+149,Laptop,Electronics,Laptop,882.61
+150,Lipstick,Beauty,Lipstick,3229.69
+151,Sofa,Home,Sofa,1173.73
+152,Notebook,Books,Notebook,3763.9
+153,Cricket Ball,Sports,Cricket Ball,2791.25
+154,Jeans,Clothing,Jeans,3433.68
+155,Football,Sports,Football,2688.05
+156,Chair,Home,Chair,649.82
+157,Bat,Sports,Bat,834.28
+158,Lamp,Home,Lamp,1106.47
+159,Tennis Racket,Sports,Tennis Racket,2600.84
+160,Monitor,Electronics,Monitor,2135.58
+161,Football,Sports,Football,3396.56
+162,Chair,Home,Chair,4100.62
+163,Perfume,Beauty,Perfume,321.92
+164,Chair,Home,Chair,395.25
+165,MONITOR,Electronics,Monitor,981.91
+166,Notebook,Books,Notebook,4467.53
+167,T-Shirt,Clothing,T-Shirt,3445.38
+168,Perfume,Beauty,Perfume,1804.07
+169,Notebook,Books,Notebook,3666.5
+170,Novel,Books,Novel,4894.6
+171,T-Shirt,Clothing,T-Shirt,4134.47
+172,Notebook,Books,Notebook,1450.68
+173,fACE wASH,Beauty,Face Wash,2154.28
+174,Mobile,Electronics,Mobile,594.39
+175,Monitor,Electronics,Monitor,3546.1
+176,Mobile,Electronics,Mobile,2071.1
+177,Dictionary,Books,Dictionary,3902.71
+178,Magazine,Books,Magazine,4590.35
+179,Cricket Ball,Sports,Cricket Ball,3885.44
+180,Table,Home,Table,801.98
+181,Perfume,Beauty,Perfume,1448.25
+182,Bat,Sports,Bat,2193.28
+183,Shirt,Clothing,Shirt,4713.77
+184,Cream,Beauty,Cream,1661.8
+185,T-Shirt,Clothing,T-Shirt,1944.65
+186,Tennis Racket,Sports,Tennis Racket,1204.19
+187,Perfume,Beauty,Perfume,4582.23
+188,Tennis Racket,Sports,Tennis Racket,2830.71
+189,Notebook,Books,Notebook,1096.35
+190,Face Wash,Beauty,Face Wash,4250.95
+191,Mobile,Electronics,Mobile,1948.12
+192,Football,Sports,Football,1022.0
+193,Bat,Sports,Bat,4360.42
+194,Sofa,Home,Sofa,175.14
+195,Novel,Books,Novel,3796.22
+196,Dictionary,Books,Dictionary,1272.72
+197,Sofa,Home,Sofa,2714.89
+198,Sofa,Home,Sofa,2612.8
+199,T-Shirt,Clothing,T-Shirt,4908.46
+200,Jacket,Clothing,Jacket,1916.45
+201,Shirt,Clothing,Shirt,1184.24
+202,Novel,Books,Novel,4680.32
+203,Tennis Racket,Sports,Tennis Racket,1061.34
+204,Notebook,Books,Notebook,1304.08
+205,Cricket Ball,Sports,Cricket Ball,4125.8
+206,Cream,Beauty,Cream,3690.58
+207,Table,Home,Table,2778.08
+208,Novel,Books,Novel,4211.44
+209,Laptop,Electronics,Laptop,2120.72
+210,Perfume,Beauty,Perfume,840.05
+211,Notebook,Books,Notebook,3127.39
+212,Cream,Beauty,Cream,177.09
+213,tENNIS rACKET,Sports,Tennis Racket,3638.74
+214,cRICKET bALL,Sports,Cricket Ball,3402.76
+215,Novel,Books,Novel,2669.49
+216,Dictionary,Books,Dictionary,1336.85
+217,Sofa,Home,Sofa,487.19
+218,T-Shirt,Clothing,T-Shirt,4952.14
+219,Magazine,Books,Magazine,4254.55
+220,Face Wash,Beauty,Face Wash,1958.39
+221,Tennis Racket,Sports,Tennis Racket,146.31
+222,Novel,Books,Novel,2226.16
+223,Chair,Home,Chair,4603.85
+224,Dictionary,Books,Dictionary,3492.21
+225,Tennis Racket,Sports,Tennis Racket,4628.38
+226,Lipstick,Beauty,Lipstick,2861.2
+227,Mobile,Electronics,Mobile,1640.97
+228,Dictionary,Books,Dictionary,3592.29
+229,Shirt,Clothing,Shirt,2863.4
+230,Tennis Racket,Sports,Tennis Racket,2748.76
+231,Jeans,Clothing,Jeans,3477.62
+232,Headphones,Electronics,Headphones,2241.73
+233,Headphones,Electronics,Headphones,3107.94
+234,Tennis Racket,Sports,Tennis Racket,1699.25
+235,Lipstick,Beauty,Lipstick,2307.7
+236,Magazine,Books,Magazine,1939.59
+237,Notebook,Books,Notebook,3131.22
+238,Novel,Books,Novel,855.68
+239,Perfume,Beauty,Perfume,1651.72
+240,LAPTOP,Electronics,Laptop,2279.21
+241,Chair,Home,Chair,1018.22
+242,T-Shirt,Clothing,T-Shirt,539.13
+243,Football,Sports,Football,3943.75
+244,Shirt,Clothing,Shirt,2000.22
+245,Mobile,Electronics,Mobile,930.96
+246,Jeans,Clothing,Jeans,1575.54
+247,Jeans,Clothing,Jeans,2229.91
+248,Jacket,Clothing,Jacket,476.91
+249,Table,Home,Table,2529.43
+250,Bat,Sports,Bat,763.9
+251,Monitor,Electronics,Monitor,3138.94
+252,Lamp,Home,Lamp,4095.83
+253,Perfume,Beauty,Perfume,3055.74
+254,Perfume,Beauty,Perfume,970.42
+255,Jacket,Clothing,Jacket,3505.29
+256,Jeans,Clothing,Jeans,1473.47
+257,Jacket,Clothing,Jacket,2862.87
+258,Bat,Sports,Bat,2795.49
+259,Cream,Beauty,Cream,1127.28
+260,Chair,Home,Chair,3998.72
+261,T-Shirt,Clothing,T-Shirt,1583.88
+262,Table,Home,Table,3966.48
+263,Monitor,Electronics,Monitor,2448.25
+264,T-Shirt,Clothing,T-Shirt,3974.53
+265,Chair,Home,Chair,1316.33
+266,Lipstick,Beauty,Lipstick,3102.12
+267,Tennis Racket,Sports,Tennis Racket,1724.82
+268,SHIRT,Clothing,Shirt,1187.81
+269,Perfume,Beauty,Perfume,2016.56
+270,Perfume,Beauty,Perfume,220.36
+271,Headphones,Electronics,Headphones,4812.47
+272,Mobile,Electronics,Mobile,1781.03
+273,Notebook,Books,Notebook,578.35
+274,Cream,Beauty,Cream,1571.29
+275,FACE WASH,Beauty,Face Wash,3275.05
+276,Perfume,Beauty,Perfume,3728.4
+277,Bat,Sports,Bat,1721.85
+278,T-Shirt,Clothing,T-Shirt,2084.73
+279,Dictionary,Books,Dictionary,2217.46
+280,Mobile,Electronics,Mobile,2204.81
+281,Mobile,Electronics,Mobile,3786.39
+282,Laptop,Electronics,Laptop,2730.76
+283,Sofa,Home,Sofa,658.38
+284,Cream,Beauty,Cream,3231.63
+285,Tennis Racket,Sports,Tennis Racket,2976.32
+286,Sofa,Home,Sofa,3125.08
+287,Lipstick,Beauty,Lipstick,2991.82
+288,Perfume,Beauty,Perfume,1269.01
+289,Mobile,Electronics,Mobile,792.66
+290,T-Shirt,Clothing,T-Shirt,2916.55
+291,Jeans,Clothing,Jeans,2733.16
+292,Perfume,Beauty,Perfume,2499.25
+293,Dictionary,Books,Dictionary,2309.9
+294,Headphones,Electronics,Headphones,2474.58
+295,Notebook,Books,Notebook,2576.65
+296,T-Shirt,Clothing,T-Shirt,2136.59
+297,T-Shirt,Clothing,T-Shirt,2870.45
+298,   Magazine   ,Books,Magazine,2734.28
+299,Notebook,Books,Notebook,3885.48
+300,Shirt,Clothing,Shirt,1412.66
+301,Cricket Ball,Sports,Cricket Ball,3808.25
+302,Cream,Beauty,Cream,4949.9
+303,Mobile,Electronics,Mobile,4996.63
+304,Jacket,Clothing,Jacket,4101.97
+305,Shirt,Clothing,Shirt,1261.04
+306,Lipstick,Beauty,Lipstick,3090.28
+307,Jeans,Clothing,Jeans,3945.76
+308,Novel,Books,Novel,2708.18
+309,Bat,Sports,Bat,3549.86
+310,Sofa,Home,Sofa,2620.63
+311,Face Wash,Beauty,Face Wash,3775.46
+312,Shirt,Clothing,Shirt,4348.53
+313,Dictionary,Books,Dictionary,3585.83
+314,Notebook,Books,Notebook,2929.39
+315,Lamp,Home,Lamp,470.03
+316,Monitor,Electronics,Monitor,1463.31
+317,Lamp,Home,Lamp,1703.72
+318,Laptop,Electronics,Laptop,2346.4
+319,Lipstick,Beauty,Lipstick,3998.82
+320,Jeans,Clothing,Jeans,4141.75
+321,Jacket,Clothing,Jacket,1489.61
+322,Bat,Sports,Bat,2478.16
+323,cHAIR,Home,Chair,3941.06
+324,Shirt,Clothing,Shirt,4302.49
+325,T-SHIRT,Clothing,T-Shirt,1091.36
+326,Perfume,Beauty,Perfume,1579.14
+327,Chair,Home,Chair,1326.91
+328,Table,Home,Table,3165.46
+329,Perfume,Beauty,Perfume,546.88
+330,Laptop,Electronics,Laptop,481.9
+331,Bat,Sports,Bat,2280.83
+332,Headphones,Electronics,Headphones,4941.96
+333,Jeans,Clothing,Jeans,1221.84
+334,Laptop,Electronics,Laptop,1901.05
+335,Table,Home,Table,4085.5
+336,Dictionary,Books,Dictionary,2860.13
+337,Bat,Sports,Bat,3639.92
+338,Perfume,Beauty,Perfume,3118.77
+339,Jeans,Clothing,Jeans,592.28
+340,Monitor,Electronics,Monitor,2204.0
+341,Dictionary,Books,Dictionary,512.82
+342,Cricket Ball,Sports,Cricket Ball,3483.33
+343,Lipstick,Beauty,Lipstick,3073.94
+344,Notebook,Books,Notebook,367.39
+345,Notebook,Books,Notebook,1281.3
+346,Face Wash,Beauty,Face Wash,4890.72
+347,Sofa,Home,Sofa,4317.99
+348,Tennis Racket,Sports,Tennis Racket,3446.42
+349,   Shirt   ,Clothing,Shirt,167.59
+350,Novel,Books,Novel,4748.53
+351,Jacket,Clothing,Jacket,2555.14
+352,T-Shirt,Clothing,T-Shirt,503.9
+353,Bat,Sports,Bat,1618.54
+354,Bat,Sports,Bat,861.35
+355,Lamp,Home,Lamp,3839.8
+356,Face Wash,Beauty,Face Wash,2243.68
+357,Novel,Books,Novel,4630.68
+358,Monitor,Electronics,Monitor,369.64
+359,Perfume,Beauty,Perfume,3568.71
+360,Face Wash,Beauty,Face Wash,4769.78
+361,Cricket Ball,Sports,Cricket Ball,721.96
+362,Chair,Home,Chair,243.85
+363,Jacket,Clothing,Jacket,1388.45
+364,Football,Sports,Football,2602.83
+365,Monitor,Electronics,Monitor,917.72
+366,Magazine,Books,Magazine,4481.92
+367,Face Wash,Beauty,Face Wash,2593.24
+368,Laptop,Electronics,Laptop,2411.65
+369,Jeans,Clothing,Jeans,4805.68
+370,Monitor,Electronics,Monitor,1316.49
+371,Lipstick,Beauty,Lipstick,481.65
+372,Chair,Home,Chair,4519.51
+373,Dictionary,Books,Dictionary,4908.93
+374,Shirt,Clothing,Shirt,4343.56
+375,Sofa,Home,Sofa,2338.06
+376,Table,Home,Table,3944.09
+377,Perfume,Beauty,Perfume,2999.29
+378,Jeans,Clothing,Jeans,2778.14
+379,DICTIONARY,Books,Dictionary,217.16
+380,Cricket Ball,Sports,Cricket Ball,3497.96
+381,hEADPHONES,Electronics,Headphones,1943.75
+382,Lipstick,Beauty,Lipstick,2696.09
+383,Notebook,Books,Notebook,393.49
+384,Magazine,Books,Magazine,4614.24
+385,Tennis Racket,Sports,Tennis Racket,1925.21
+386,Face Wash,Beauty,Face Wash,2576.6
+387,Cream,Beauty,Cream,2882.32
+388,Jeans,Clothing,Jeans,1378.86
+389,Lamp,Home,Lamp,3703.23
+390,Lamp,Home,Lamp,465.97
+391,Dictionary,Books,Dictionary,2965.07
+392,Novel,Books,Novel,2383.67
+393,Shirt,Clothing,Shirt,4826.71
+394,Notebook,Books,Notebook,1398.54
+395,Laptop,Electronics,Laptop,3461.67
+396,Face Wash,Beauty,Face Wash,4297.21
+397,Novel,Books,Novel,4845.16
+398,Shirt,Clothing,Shirt,1374.82
+399,Novel,Books,Novel,4287.55
+400,Bat,Sports,Bat,599.35
+401,   Novel   ,Books,Novel,740.5
+402,Jacket,Clothing,Jacket,4694.12
+403,Headphones,Electronics,Headphones,467.44
+404,Mobile,Electronics,Mobile,2272.81
+405,Novel,Books,Novel,4163.85
+406,CHAIR,Home,Chair,348.12
+407,Tennis Racket,Sports,Tennis Racket,2035.49
+408,Monitor,Electronics,Monitor,946.76
+409,Dictionary,Books,Dictionary,2285.46
+410,Novel,Books,Novel,3123.19
+411,Lipstick,Beauty,Lipstick,4425.62
+412,Shirt,Clothing,Shirt,1976.77
+413,Jeans,Clothing,Jeans,4006.27
+414,Novel,Books,Novel,3931.39
+415,Lamp,Home,Lamp,2474.93
+416,Cricket Ball,Sports,Cricket Ball,981.1
+417,TABLE,Home,Table,387.1
+418,Jacket,Clothing,Jacket,4998.07
+419,Novel,Books,Novel,1281.65
+420,Football,Sports,Football,4744.23
+421,Tennis Racket,Sports,Tennis Racket,4212.19
+422,Dictionary,Books,Dictionary,1658.22
+423,Lipstick,Beauty,Lipstick,238.21
+424,Lipstick,Beauty,Lipstick,2861.67
+425,Bat,Sports,Bat,4070.97
+426,Jacket,Clothing,Jacket,286.02
+427,Mobile,Electronics,Mobile,197.65
+428,Shirt,Clothing,Shirt,3109.26
+429,Magazine,Books,Magazine,4602.03
+430,cHAIR,Home,Chair,3553.01
+431,Novel,Books,Novel,4317.28
+432,Headphones,Electronics,Headphones,3344.48
+433,Football,Sports,Football,1680.76
+434,Notebook,Books,Notebook,4807.24
+435,Lipstick,Beauty,Lipstick,4846.84
+436,Lipstick,Beauty,Lipstick,2985.86
+437,Notebook,Books,Notebook,3473.64
+438,Dictionary,Books,Dictionary,4749.06
+439,Tennis Racket,Sports,Tennis Racket,3877.07
+440,Football,Sports,Football,1659.26
+441,Bat,Sports,Bat,610.14
+442,Jeans,Clothing,Jeans,481.25
+443,Sofa,Home,Sofa,4438.07
+444,Headphones,Electronics,Headphones,1399.54
+445,Novel,Books,Novel,3956.4
+446,FACE WASH,Beauty,Face Wash,3689.66
+447,Notebook,Books,Notebook,1955.69
+448,Tennis Racket,Sports,Tennis Racket,2449.5
+449,Bat,Sports,Bat,461.18
+450,HEADPHONES,Electronics,Headphones,4763.14
+451,Headphones,Electronics,Headphones,1939.74
+452,Face Wash,Beauty,Face Wash,4500.81
+453,Headphones,Electronics,Headphones,3106.86
+454,Shirt,Clothing,Shirt,3302.81
+455,Tennis Racket,Sports,Tennis Racket,596.16
+456,Dictionary,Books,Dictionary,2815.15
+457,Lipstick,Beauty,Lipstick,1557.26
+458,Laptop,Electronics,Laptop,2793.35
+459,Jeans,Clothing,Jeans,118.7
+460,Headphones,Electronics,Headphones,3162.95
+461,Jeans,Clothing,Jeans,1114.07
+462,Lipstick,Beauty,Lipstick,2420.5
+463,Headphones,Electronics,Headphones,2407.63
+464,Lipstick,Beauty,Lipstick,2766.22
+465,Magazine,Books,Magazine,1910.07
+466,Shirt,Clothing,Shirt,2378.78
+467,Magazine,Books,Magazine,840.54
+468,Face Wash,Beauty,Face Wash,1784.58
+469,Tennis Racket,Sports,Tennis Racket,2989.66
+470,Football,Sports,Football,4110.19
+471,T-Shirt,Clothing,T-Shirt,1254.65
+472,Chair,Home,Chair,4284.31
+473,Mobile,Electronics,Mobile,3810.22
+474,Dictionary,Books,Dictionary,4061.46
+475,Novel,Books,Novel,4942.57
+476,Jeans,Clothing,Jeans,3173.41
+477,Cricket Ball,Sports,Cricket Ball,3662.8
+478,Laptop,Electronics,Laptop,2047.04
+479,Sofa,Home,Sofa,4594.09
+480,Monitor,Electronics,Monitor,833.25
+481,Football,Sports,Football,2857.15
+482,Headphones,Electronics,Headphones,4412.67
+483,Jacket,Clothing,Jacket,2479.37
+484,TENNIS RACKET,Sports,Tennis Racket,2074.57
+485,TENNIS RACKET,Sports,Tennis Racket,3483.52
+486,Monitor,Electronics,Monitor,4495.45
+487,Headphones,Electronics,Headphones,1584.97
+488,Lamp,Home,Lamp,3455.77
+489,Dictionary,Books,Dictionary,3744.25
+490,Sofa,Home,Sofa,3064.4
+491,Mobile,Electronics,Mobile,4575.82
+492,T-Shirt,Clothing,T-Shirt,4349.23
+493,Mobile,Electronics,Mobile,3576.89
+494,Jeans,Clothing,Jeans,2669.0
+495,Football,Sports,Football,4388.38
+496,Novel,Books,Novel,2336.6
+497,Table,Home,Table,4135.18
+498,Tennis Racket,Sports,Tennis Racket,706.98
+499,Mobile,Electronics,Mobile,3010.81
+500,Notebook,Books,Notebook,1813.82
