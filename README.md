@@ -48,3 +48,9 @@ Submission Date: 28 June 2026
 Folder: Week 7 Celebal Assignment  
 
 Submission Date: 05 July 2026  
+
+
+### Week 8
+Folder: Week 8 Celebal Assignment (Ecommerce Mini Project) 
+
+Submission Date: 13 July 2026  
